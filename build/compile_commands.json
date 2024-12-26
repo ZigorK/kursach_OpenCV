@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ziigork/Project/kursach_OpenCV/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/kursach.dir/main.cpp.o -c /home/ziigork/Project/kursach_OpenCV/main.cpp",
+  "file": "/home/ziigork/Project/kursach_OpenCV/main.cpp",
+  "output": "CMakeFiles/kursach.dir/main.cpp.o"
+}
+]
